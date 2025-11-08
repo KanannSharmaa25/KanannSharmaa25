@@ -1,3 +1,9 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<h1 align="center">Hi 👋, I'm Anshuman Bakshi</h1>
+<h3 align="center">A passionate Software Engineer studying in SRM Institute of Science & Technology</h3>
+<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
+
+
 # 💫 About Me:
 🔭 I’m currently working on stroke predictor<br><br>🌱 I’m currently learning ML & DL<br><br>👨‍💻 All of my projects are available at https://github.com/KanannSharmaa25<br><br>📫 How to reach me Kanansharma378@gmail.com<br><br>⚡ Fun fact I am a classical dancer
 
